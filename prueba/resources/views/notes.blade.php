@@ -1,8 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
-	<meta charset="utf-8">
+	<meta charset="UTF-8">
+	<title>CAOL - Controle de Atividades Online - Agence Interativa</title>
 	<link href="{{ asset('css/app.css') }}" rel="stylesheet">
-	<script type="text/javascript" src="{{asset('js/app.js') }}"></script>
-	<script type="text/javascript" src="{{asset('js/checkConsultores.js') }}"></script>
+
 	<style>
 		.state-icon {
 			left: -5px;
@@ -19,24 +21,27 @@
 	</style>
 </head>
 <body>
+	<div class="container">
+		<div class="col-xs-6">
+			<h3 class="text-center">Período</h3>
+			<div class="well" style="max-height: 300px;overflow: auto;">
 
-	<div class="container" style="margin-top:20px;">
-		<div class="row">
-			<div class="col-xs-6">
-				<h3 class="text-center">Colorful Example</h3>
-				<div class="well" style="max-height: 300px;overflow: auto;">
-					<ul id="check-list-box" class="list-group checked-list-box">
-						<li class="list-group-item">Cras justo odio</li>
-						<li class="list-group-item" data-color="success">Dapibus ac facilisis in</li>
-						<li class="list-group-item" data-color="info">Morbi leo risus</li>
-						<li class="list-group-item" data-color="warning">Porta ac consectetur ac</li>
-						<li class="list-group-item" data-color="danger">Vestibulum at eros</li>
-					</ul>
-					<br />
-					<button class="btn btn-primary col-xs-12" id="get-checked-data">Get Checked Data</button>
-				</div>
-				<pre id="display-json"></pre>
 			</div>
+		</div>
+		<div class="col-xs-6">
+			<h3 class="text-center">Colorful Example</h3>
+			<div class="well" style="max-height: 300px;overflow: auto;">
+				<ul id="check-list-box" class="list-group checked-list-box">
+					<li class="list-group-item">Cras justo odio</li>
+					<li class="list-group-item" data-color="success">Dapibus ac facilisis in</li>
+					<li class="list-group-item" data-color="info">Morbi leo risus</li>
+					<li class="list-group-item" data-color="warning">Porta ac consectetur ac</li>
+					<li class="list-group-item" data-color="danger">Vestibulum at eros</li>
+				</ul>
+				<br />
+				<button class="btn btn-primary col-xs-12" id="get-checked-data">Get Checked Data</button>
+			</div>
+			<pre id="display-json"></pre>
 		</div>
 	</div>
 
@@ -63,3 +68,6 @@
 
 
 </body>
+<script type="text/javascript" src="{{asset('js/app.js') }}"></script>
+<script type="text/javascript" src="{{asset('js/checkConsultores.js') }}"></script>
+</html>
