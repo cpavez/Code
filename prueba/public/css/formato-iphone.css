@@ -1,0 +1,27 @@
+.menu_paciente {
+    border-bottom: 1px solid #AAA;
+    position: absolute;
+    right: 740px;
+    top: 10px;
+}
+.contenedor{
+    position: absolute;
+	top: 0;
+	left: 250px;
+	right: 0;
+	bottom: 0;
+}
+.texto_carga{
+	margin: 0px 20% 0px 10%;
+	font-size: 20px;
+} 
+.form_busca_pariente{
+	margin: 20px 30% 20px 30%;
+} 
+.foto_paciente{
+	width: 120px; 
+	height: 120px; 
+	position: absolute; 
+	right: 10px; 
+	top: 35px;
+}

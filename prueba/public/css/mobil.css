@@ -1,0 +1,65 @@
+.menu_paciente {
+    border-bottom: 1px solid #AAA;
+    position: absolute;
+    right: 735px;
+    top: 10px;
+}
+.contenedor{
+    position: absolute;
+	top: 0;
+	left: 200px;
+	right: 0;
+	bottom: 0;
+}
+.texto_carga{
+	margin: 0px 20% 0px 10%;
+	font-size: 20px;
+} 
+.form_busca_pariente{
+	margin: 20px 30% 20px 30%;
+} 
+.foto_paciente{
+	width: 120px; 
+	height: 120px; 
+	position: absolute; 
+	right: 10px; 
+	top: 35px;
+}
+
+.foto_paciente_epi{
+	width: 60px; 
+	height: 60px;
+}
+
+.d_paciente dt {
+  float: left;
+  width: 100px;
+  overflow: hidden;
+  clear: left;
+  text-align: right;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.d_paciente dd {
+  margin-left: 120px;
+}
+.total_pagar {
+	width: 116% !important;
+}
+.d_paciente_abono dt {
+	  float: left;
+	  width: 50px;
+	  overflow: hidden;
+	  clear: left;
+	  text-align: right;
+	  text-overflow: ellipsis;
+	  white-space: nowrap;
+	}
+	
+.d_paciente_abono dd {
+  margin-left: 60px;
+}
+.total_pagar_abono {
+	width: 180% !important;
+}
