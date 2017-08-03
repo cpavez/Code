@@ -2,7 +2,99 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f937c717-0c59-4a2c-ba75-723bd9884c02" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prueba/resources/views/notes.blade.php" afterPath="$PROJECT_DIR$/prueba/resources/views/notes.blade.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/.env.example" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Console/Kernel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Exceptions/Handler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Http/Controllers/Auth/ForgotPasswordController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Http/Controllers/Auth/LoginController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Http/Controllers/Auth/RegisterController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Http/Controllers/Auth/ResetPasswordController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Http/Controllers/Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Http/Kernel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Http/Middleware/EncryptCookies.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Http/Middleware/RedirectIfAuthenticated.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Http/Middleware/VerifyCsrfToken.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Note.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Providers/AppServiceProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Providers/AuthServiceProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Providers/BroadcastServiceProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Providers/EventServiceProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/Providers/RouteServiceProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/app/User.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/artisan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/banco_de_dados.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/bootstrap/app.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/bootstrap/autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/bootstrap/cache/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/config/app.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/config/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/config/broadcasting.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/config/cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/config/compile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/config/database.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/config/filesystems.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/config/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/config/queue.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/config/services.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/config/session.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/config/view.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/database/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/database/factories/ModelFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/database/migrations/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/database/migrations/2014_10_12_000000_create_users_table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/database/migrations/2017_01_09_160937_create_notes_table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/database/seeds/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/database/seeds/DatabaseSeeder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/public/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/public/css/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/public/fonts/bootstrap/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/public/fonts/bootstrap/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/public/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/public/fonts/bootstrap/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/public/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/public/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/public/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/public/js/checkConsultores.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/public/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/public/web.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/resources/assets/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/resources/assets/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/resources/assets/js/components/Example.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/resources/assets/sass/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/resources/assets/sass/app.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/resources/lang/en/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/resources/lang/en/pagination.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/resources/lang/en/passwords.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/resources/lang/en/validation.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/resources/views/errors/503.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/resources/views/notes.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/resources/views/vendor/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/resources/views/welcome.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/routes/api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/routes/console.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/routes/web.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/server.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/storage/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/storage/app/public/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/storage/framework/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/storage/framework/cache/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/storage/framework/sessions/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/storage/framework/views/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/storage/logs/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/tests/ExampleTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/tests/PruebaTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prueba/tests/TestCase.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,73 +114,76 @@
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="caol@192.168.10.10" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Code" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="notes.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prueba/resources/views/notes.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#1387#1825#0#HTML" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/prueba/routes/web.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="checkConsultores.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prueba/public/js/checkConsultores.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="81" column="3" lean-forward="false" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#49#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fonts</find>
+      <find>agregarPres</find>
+      <find>anamnesis</find>
+      <find>#header-logo .logo-content-big, .logo-co</find>
+      <find>pad5A button-pane button-pane-alt text-center</find>
+      <find>panel-heading</find>
+      <find>rup_relac</find>
+      <find>especia</find>
+      <find>esb_id</find>
+      <find>guardamosVariableSession</find>
+      <find>epiAnamnesisPediatrica</find>
+      <find>fichaDetalle</find>
+      <find>eliminar</find>
+      <find>formE</find>
+      <find>eliminarDescuento</find>
+      <find>formReca</find>
+      <find>ingres</find>
+      <find>epiA</find>
+      <find>d/</find>
+      <find>epiEvoluc</find>
+      <find>agregarEvolicion</find>
+      <find>agregarEvolucionKine</find>
+      <find>modAgregarDescuento</find>
+      <find>anamnesisProxima</find>
+      <find>guardarFuerzaMotora</find>
+      <find>epiAnamnesisKine</find>
+      <find>eva</find>
+      <find>epiPerinatales</find>
+      <find>informe</find>
+      <find>agregarInforme</find>
+      <find>sentibilidad</find>
     </findStrings>
+    <replaceStrings>
+      <replace>secureConnection = true</replace>
+      <replace>secureConnection: true</replace>
+      <replace>secure</replace>
+      <replace>3002</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/prueba/public</dir>
+      <dir>$PROJECT_DIR$/prueba/node_modules/bootstrap-sass/assets/stylesheets/bootstrap</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/prueba/resources/views/ficha</dir>
+      <dir>$PROJECT_DIR$/prueba/resources/views/fichaLayout</dir>
+      <dir>$PROJECT_DIR$/prueba/app/Http/Controllers</dir>
+      <dir>$PROJECT_DIR$/prueba/public/css</dir>
+      <dir>$PROJECT_DIR$/prueba/config</dir>
+      <dir>$PROJECT_DIR$/prueba/resources/views/agendaLayout</dir>
+      <dir>$PROJECT_DIR$/prueba/resources/views</dir>
+      <dir>$PROJECT_DIR$/prueba</dir>
+      <dir>$PROJECT_DIR$/prueba/app</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,17 +191,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/prueba/.env.example" />
-        <option value="$PROJECT_DIR$/prueba/config/app.php" />
-        <option value="$PROJECT_DIR$/prueba/config/database.php" />
-        <option value="$PROJECT_DIR$/prueba/.env" />
-        <option value="$PROJECT_DIR$/prueba/app/Note.php" />
-        <option value="$PROJECT_DIR$/prueba/routes/web.php" />
-        <option value="$PROJECT_DIR$/prueba/.gitignore" />
-        <option value="$PROJECT_DIR$/prueba/public/js/checkConsultores.js" />
-        <option value="$PROJECT_DIR$/prueba/public/css/app.css" />
-        <option value="$PROJECT_DIR$/prueba/resources/views/prueba.html" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/ficha/listaPrestaciones.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/pdfLayout/epiEpisodioPDF.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/pdf/presupuestoOdontoPDF.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/fichaLayout/listaPrestaciones.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/app/Http/Controllers/OdontogramaController.php" />
+        <option value="$PROJECT_DIR$/prueba/app/Http/Controllers/nusoap.php" />
+        <option value="$USER_HOME$/Desktop/Fonasa.php" />
+        <option value="$PROJECT_DIR$/prueba/app/Http/Controllers/ItemController.php" />
+        <option value="$PROJECT_DIR$/prueba/app/Http/Controllers/fonasa.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/fichaLayout/epiEncuesta.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/ficha/epiEncuesta.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/fichaLayout/epiAnamnesisPediatrica.php" />
+        <option value="$PROJECT_DIR$/prueba/app/PatologiaEmbarazo.php" />
+        <option value="$PROJECT_DIR$/prueba/app/Perinatales.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/ficha/epiPerinatales.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/fichaLayout/epiPerinatales.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/agendaLayout/agenda.blade.php" />
         <option value="$PROJECT_DIR$/prueba/resources/views/notes.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/app/Http/Controllers/LogearController.php" />
+        <option value="$PROJECT_DIR$/prueba/public/js/wizard.js" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/ficha/epiAnamnesisPediatrica.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/app/AnamnesisProximaPediatrica.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/fichaLayout/epiAnamnesisPediatrica.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/ficha/fichaDetalle.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/ficha/epiEpisodio.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/fichaLayout/epiEpisodio.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/cajaLayout/ingreso.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/ficha/epiEvolucion.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/app/Abono.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/ficha/formRecaudacion.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/app/Http/Controllers/CajaController.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/caja/ingreso.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/app/EvolucionKine.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/fichaLayout/epiEvolucionKine.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/ficha/epiEvolucionKine.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/ficha/epiAnamnesisProxima.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/app/FuerzaMotora.php" />
+        <option value="$PROJECT_DIR$/prueba/app/Perimetro.php" />
+        <option value="$PROJECT_DIR$/prueba/app/Angulo.php" />
+        <option value="$PROJECT_DIR$/prueba/app/Goniometria.php" />
+        <option value="$PROJECT_DIR$/prueba/app/AnamnesisProximaKine.php" />
+        <option value="$PROJECT_DIR$/prueba/app/Http/Controllers/StorageController.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/fichaLayout/epiAnamnesisKine.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/ficha/epiAnamnesisKine.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/app/Informe.php" />
+        <option value="$PROJECT_DIR$/prueba/routes/web.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/ficha/epiPrestaciones.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/pdf/informePDF.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/fichaLayout/epiInforme.blade.php" />
+        <option value="$PROJECT_DIR$/prueba/app/Http/Controllers/EpisodioController.php" />
+        <option value="$PROJECT_DIR$/prueba/resources/views/ficha/epiInforme.blade.php" />
       </list>
     </option>
   </component>
@@ -141,6 +276,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Code">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Code">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="prueba">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -224,6 +387,14 @@
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pdf" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -239,13 +410,148 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fichaLayout" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prueba" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ficha" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prueba" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prueba" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prueba" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prueba" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prueba" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -254,20 +560,38 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js.eslint.eslintPackage" value="/usr/local/lib/node_modules/eslint" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/prueba/public" />
+    <key name="OPEN_URL_DIALOG">
+      <recent name="http://" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/prueba/fonts/bootstrap" />
+      <recent name="$PROJECT_DIR$/prueba/app/Http/Controllers/fonasa" />
+      <recent name="$PROJECT_DIR$/prueba/app/Http/Controllers" />
+      <recent name="$PROJECT_DIR$/prueba/resources/views/pdf" />
+      <recent name="$PROJECT_DIR$/prueba/public/img" />
+      <recent name="$PROJECT_DIR$/prueba/resources/views/pdfLayout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/prueba/app/Http/Controllers/fonasa" />
+      <recent name="$PROJECT_DIR$/prueba/public/img" />
+      <recent name="$PROJECT_DIR$/prueba/app/Http/Controllers" />
+      <recent name="$PROJECT_DIR$/prueba/resources/views/cajaLayout" />
+      <recent name="$PROJECT_DIR$/prueba/resources/views/caja" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Chromium Remote.Unnamed">
+    <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
@@ -324,6 +648,16 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <configuration default="false" name="Unnamed" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP" session_id="">
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="App Engine for PHP.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Chromium Remote.Unnamed" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -338,12 +672,44 @@
       <workItem from="1483990426428" duration="4365000" />
       <workItem from="1484001644298" duration="5788000" />
       <workItem from="1484069377110" duration="2933000" />
-      <workItem from="1484075546457" duration="4804000" />
+      <workItem from="1484075546457" duration="5383000" />
+      <workItem from="1485995818974" duration="392000" />
+      <workItem from="1487707875665" duration="616000" />
+      <workItem from="1488310912694" duration="604000" />
+      <workItem from="1489416227526" duration="34334000" />
+      <workItem from="1489580743806" duration="19687000" />
+      <workItem from="1489759357963" duration="107876000" />
+      <workItem from="1490099093757" duration="104288000" />
+      <workItem from="1490481095365" duration="50685000" />
+      <workItem from="1490709041002" duration="67892000" />
+      <workItem from="1490940351053" duration="122000" />
+      <workItem from="1490964782177" duration="78926000" />
+      <workItem from="1491349070011" duration="20417000" />
+      <workItem from="1491530114296" duration="48064000" />
+      <workItem from="1491952349589" duration="1711000" />
+      <workItem from="1492017519766" duration="14761000" />
+      <workItem from="1492102042274" duration="1403000" />
+      <workItem from="1492106045164" duration="4239000" />
+      <workItem from="1492131307898" duration="9614000" />
+      <workItem from="1492475155278" duration="4426000" />
+      <workItem from="1493068742254" duration="561000" />
+      <workItem from="1493099689997" duration="216000" />
+      <workItem from="1493124123933" duration="35000" />
+      <workItem from="1493222983010" duration="165000" />
+      <workItem from="1493231373814" duration="271000" />
+      <workItem from="1493417194841" duration="88000" />
+      <workItem from="1495222175681" duration="1849000" />
+      <workItem from="1495224064201" duration="2196000" />
+      <workItem from="1495226676303" duration="1209000" />
+      <workItem from="1495334460834" duration="235000" />
+      <workItem from="1495503299684" duration="48000" />
+      <workItem from="1495503406687" duration="31377000" />
+      <workItem from="1496404928480" duration="1273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17890000" />
+    <option name="totallyTimeSpent" value="628049000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -356,25 +722,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="733" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29886913" sideWeight="0.49453977" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2584814" sideWeight="0.49453977" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.49676898" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6879875" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.49353796" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.49353796" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7550702" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7550702" sideWeight="0.49676898" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2609047" sideWeight="0.5054602" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46645865" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,184 +768,439 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="21" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prueba/app/Note.php">
+    <entry file="file://$PROJECT_DIR$/prueba/app/AnamnesisProximaPediatrica.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="135">
+          <caret line="14" column="52" lean-forward="false" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/routes/web.php">
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/ficha/epiAnamnesisPediatrica.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding />
+        <state relative-caret-position="635">
+          <caret line="68" column="103" lean-forward="false" selection-start-line="68" selection-start-column="92" selection-end-line="68" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/ficha/fichaDetalle.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="515" column="34" lean-forward="true" selection-start-line="515" selection-start-column="34" selection-end-line="515" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/fichaLayout/fichaDetalle.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prueba/resources/views/notes.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#1387#1825#0#HTML" expanded="false" />
-          </folding>
+        <state relative-caret-position="-3870">
+          <caret line="272" column="78" lean-forward="false" selection-start-line="272" selection-start-column="63" selection-end-line="272" selection-end-column="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/app/Note.php">
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/fichaLayout/formEpisodio.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/ficha/formPagos.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/caja/caja.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/caja/ingresos.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/cajaLayout/caja.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/ficha/indexAbono.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/app/Http/Controllers/CajaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5430">
+          <caret line="379" column="62" lean-forward="false" selection-start-line="379" selection-start-column="62" selection-end-line="379" selection-end-column="62" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/.env.example">
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/caja/ingreso.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="440">
+          <caret line="37" column="59" lean-forward="false" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/database/migrations/2017_01_09_160937_create_notes_table.php">
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/ficha/formEpisodio.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="22" lean-forward="true" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/app/EvolucionKine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/app/Evolucion.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/tests/PruebaTest.php">
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/ficha/formRecaudacion.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="195">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/server.php">
+    <entry file="file://$PROJECT_DIR$/prueba/app/Episodio.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/.env">
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/fichaLayout/epiEvolucionKine.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="57" lean-forward="false" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/ficha/epiEvolucionKine.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/config/database.php">
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/fichaLayout/epiAnamnesisProxima.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="57" column="35" lean-forward="false" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+        <state relative-caret-position="375">
+          <caret line="42" column="42" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="137" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/config/app.php">
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/ficha/epiAnamnesisProxima.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="51" column="14" lean-forward="false" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/ficha/epiEpisodio.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="218" column="5" lean-forward="true" selection-start-line="187" selection-start-column="0" selection-end-line="218" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/fichaLayout/epiAnamnesisPediatrica.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
-          <caret line="53" column="45" lean-forward="false" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
+          <caret line="53" column="39" lean-forward="true" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/app/Note.php">
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/fichaLayout/formPagos.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/fichaLayout/formRecaudacion.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="50" column="83" lean-forward="true" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/cajaLayout/ingreso.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-460">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/app/FuerzaMotora.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/fichaLayout/epiEpisodio.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="845">
+          <caret line="94" column="41" lean-forward="false" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/app/Perimetro.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/app/Angulo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/.gitignore">
+    <entry file="file://$PROJECT_DIR$/prueba/app/Goniometria.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="60">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/public/js/app.js">
+    <entry file="file://$PROJECT_DIR$/prueba/app/AnamnesisProxima.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/public/css/app.css">
+    <entry file="file://$PROJECT_DIR$/prueba/app/AnamnesisProximaKine.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="4" column="3668" lean-forward="false" selection-start-line="4" selection-start-column="3668" selection-end-line="4" selection-end-column="3668" />
+        <state relative-caret-position="90">
+          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/public/js/checkConsultores.js">
+    <entry file="file://$PROJECT_DIR$/prueba/app/Http/Controllers/StorageController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="81" column="3" lean-forward="false" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="3" />
+        <state relative-caret-position="349">
+          <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
           <folding>
-            <element signature="e#0#49#0" expanded="false" />
+            <element signature="e#128#142#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/2128ce32/7dd5f977-ec7d-4e47-b4a8-124cc7c71a9c/caol.cao_banco_horas">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/fichaLayout/epiAnamnesisKine.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7dd5f977-ec7d-4e47-b4a8-124cc7c71a9c/console.sql">
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/ficha/epiAnamnesisKine.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="227">
+          <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/app/Informe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/app/Abono.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/resources/views/prueba.html">
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/fichaLayout/epiEvolucion.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/resources/views/notes.blade.php">
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/ficha/epiPrestaciones.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#1387#1825#0#HTML" expanded="false" />
-          </folding>
+        <state relative-caret-position="425">
+          <caret line="37" column="169" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="37" selection-end-column="169" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prueba/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        <state relative-caret-position="2205">
+          <caret line="183" column="27" lean-forward="false" selection-start-line="183" selection-start-column="12" selection-end-line="183" selection-end-column="27" />
+          <folding>
+            <element signature="e#4965#5753#1#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/pdf/presupuestoPDF.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/pdf/examenPDF.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="193" column="9" lean-forward="false" selection-start-line="193" selection-start-column="9" selection-end-line="193" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/app/Http/Controllers/EpisodioController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6525">
+          <caret line="1654" column="64" lean-forward="false" selection-start-line="1654" selection-start-column="64" selection-end-line="1654" selection-end-column="64" />
+          <folding>
+            <element signature="e#129#150#0#PHP" expanded="false" />
+            <element signature="e#1100#2728#0#PHP" expanded="false" />
+            <element signature="e#2734#4037#0#PHP" expanded="false" />
+            <element signature="e#4043#4730#0#PHP" expanded="false" />
+            <element signature="e#4736#5142#0#PHP" expanded="false" />
+            <element signature="e#5148#5537#0#PHP" expanded="false" />
+            <element signature="e#5543#8446#0#PHP" expanded="false" />
+            <element signature="e#8452#9224#0#PHP" expanded="false" />
+            <element signature="e#9230#12076#0#PHP" expanded="false" />
+            <element signature="e#12082#13004#0#PHP" expanded="false" />
+            <element signature="e#13010#13558#0#PHP" expanded="false" />
+            <element signature="e#13564#14150#0#PHP" expanded="false" />
+            <element signature="e#14156#14718#0#PHP" expanded="false" />
+            <element signature="e#14724#17951#0#PHP" expanded="false" />
+            <element signature="e#17957#18314#0#PHP" expanded="false" />
+            <element signature="e#18320#18690#0#PHP" expanded="false" />
+            <element signature="e#18696#19050#0#PHP" expanded="false" />
+            <element signature="e#19056#19493#0#PHP" expanded="false" />
+            <element signature="e#19499#19943#0#PHP" expanded="false" />
+            <element signature="e#19949#20305#0#PHP" expanded="false" />
+            <element signature="e#20311#20992#0#PHP" expanded="false" />
+            <element signature="e#20998#21515#0#PHP" expanded="false" />
+            <element signature="e#21521#21874#0#PHP" expanded="false" />
+            <element signature="e#21880#23476#0#PHP" expanded="false" />
+            <element signature="e#23482#24053#0#PHP" expanded="false" />
+            <element signature="e#24059#24420#0#PHP" expanded="false" />
+            <element signature="e#24426#25215#0#PHP" expanded="false" />
+            <element signature="e#25221#26015#0#PHP" expanded="false" />
+            <element signature="e#26021#26965#0#PHP" expanded="false" />
+            <element signature="e#26971#28489#0#PHP" expanded="false" />
+            <element signature="e#28495#29723#0#PHP" expanded="false" />
+            <element signature="e#29729#30082#0#PHP" expanded="false" />
+            <element signature="e#30088#31287#0#PHP" expanded="false" />
+            <element signature="e#31293#31954#0#PHP" expanded="false" />
+            <element signature="e#31960#33926#0#PHP" expanded="false" />
+            <element signature="e#33932#34171#0#PHP" expanded="false" />
+            <element signature="e#34177#35150#0#PHP" expanded="false" />
+            <element signature="e#43544#45691#0#PHP" expanded="false" />
+            <element signature="e#45697#49451#0#PHP" expanded="false" />
+            <element signature="e#49457#49860#0#PHP" expanded="false" />
+            <element signature="e#49866#50531#0#PHP" expanded="false" />
+            <element signature="e#50537#51175#0#PHP" expanded="false" />
+            <element signature="e#51181#51813#0#PHP" expanded="false" />
+            <element signature="e#51819#52576#0#PHP" expanded="false" />
+            <element signature="e#52582#53800#0#PHP" expanded="false" />
+            <element signature="e#53806#54194#0#PHP" expanded="false" />
+            <element signature="e#57015#59278#0#PHP" expanded="false" />
+            <element signature="e#59283#62505#0#PHP" expanded="false" />
+            <element signature="e#62511#64890#0#PHP" expanded="false" />
+            <element signature="e#64896#66072#0#PHP" expanded="false" />
+            <element signature="e#66078#66345#0#PHP" expanded="false" />
+            <marker date="1495679632000" expanded="true" signature="9851:11837" ph="select * fro... " />
+            <marker date="1495679632000" expanded="true" signature="9902:10958" ph="select * fro... id" />
+            <marker date="1495679632000" expanded="true" signature="10002:10955" ph="select prest... prestacion_epi" />
+            <marker date="1495679632000" expanded="true" signature="11005:11782" ph="select prest... prestacion_epi" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/ficha/epiEvolucion.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/pdf/informePDF.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/ficha/epiInforme.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+          <folding>
+            <marker date="1495680410000" expanded="true" signature="1672:1985" ph="..." />
+            <marker date="1495680410000" expanded="true" signature="1691:1984" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/resources/views/fichaLayout/epiInforme.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="11" lean-forward="false" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="http://">
+      <provider selected="true" editor-type-id="httpFileEditor">
+        <state />
       </provider>
     </entry>
   </component>
